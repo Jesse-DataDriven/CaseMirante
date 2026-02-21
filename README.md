@@ -51,6 +51,23 @@ Sem backend, sem frameworks e sem dependências externas.
 A lógica preditiva é construída com base em regras simples:
 
 ```js
-if (clima === "seca") score += 2;
-if (economia === "inflacao_alta") score += 1;
-if (agro === "alta_oferta") score -= 1;
+🟢 Preço baixo (≤ 2,39):
+Oportunidade máxima (preço baixo + troca favorável)
+Oportunidade de compra (preço baixo + troca saudável)
+Atenção (preço baixo mas troca crítica)
+Cautela (preço baixo mas múltiplos custos altos)
+Oportunidade de estoque (caso geral)
+
+🔴🟠 Preço alto (≥ 2,80):
+Alerta crítico (3+ variáveis em alta simultânea)
+Pressão de custos (dólar + ração)
+Inflação + câmbio (IPCA + dólar)
+Alta + produtor em crise (troca crítica)
+Logística pressionada (diesel alto)
+Sinal de alta (caso geral)
+
+🟢🟡 Preço normal (2,40–2,79):
+Equilíbrio favorável (troca ótima + custos controlados)
+Estabilidade frágil (troca crítica + custos altos)
+Atenção — custos em alta
+Estabilidade / Normalidade
