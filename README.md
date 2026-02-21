@@ -48,7 +48,7 @@ Sem backend, sem frameworks e sem dependências externas.
 
 ### 🔹 IA Simulada (Regras de Negócio)
 
-A lógica preditiva é construída com base em regras simples:
+A lógica preditiva de preço é construída com base na performance estatítica mas, o Insight IA trabalha em combinação de regras simples:
 
 ```js
 🟢 Preço baixo (≤ 2,39):
