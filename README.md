@@ -71,3 +71,11 @@ Equilíbrio favorável (troca ótima + custos controlados)
 Estabilidade frágil (troca crítica + custos altos)
 Atenção — custos em alta
 Estabilidade / Normalidade
+
+## 🚀 Acesse o Protótipo Funcional
+
+<p align="left">
+  <a href="https://casemirante.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar_Protótipo-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
