@@ -39,6 +39,7 @@ A inteligência é **simulada no front-end**, reagindo às interações do usuá
 👉 **Versão final publicada:**  
 🔗 https://casemirante.netlify.app/
 
+
 ## 🧩 3. Arquitetura da Solução
 
 ### 🔹 Simplicidade técnica  
