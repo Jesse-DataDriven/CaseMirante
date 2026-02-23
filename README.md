@@ -34,6 +34,10 @@ Construir um **protótipo funcional** que simule um “copiloto de decisão” p
 A inteligência é **simulada no front-end**, reagindo às interações do usuário.
 
 ---
+## 🚀 Acesse o Protótipo Funcional
+
+👉 **Versão final publicada:**  
+🔗 https://casemirante.netlify.app/
 
 ## 🧩 3. Arquitetura da Solução
 
@@ -71,9 +75,3 @@ Equilíbrio favorável (troca ótima + custos controlados)
 Estabilidade frágil (troca crítica + custos altos)
 Atenção — custos em alta
 Estabilidade / Normalidade
-
-## 🚀 Acesse o Protótipo Funcional
-
-👉 **Versão final publicada:**  
-🔗 https://casemirante.netlify.app/
-
